@@ -6,3 +6,5 @@
   * 中文化Verilog教程。
 * [HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) 
   * 可練習Verilog題目。  
+* [CoderPad](https://embed.coderpad.io/sandbox?language=verilog)
+  * Online Verilog Compiler 
