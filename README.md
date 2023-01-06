@@ -1,5 +1,4 @@
 # **Verilog**
-## **Rference**
 ### 這裡記錄一些可供學習的Verilog網站
 * [ChipVerify](https://www.chipverify.com/)
   * 有許多跟Verilog相關的內容，並且包含了主流驗證的UVM教學。
