@@ -1,4 +1,4 @@
-module SHIFT(a, b, RIGHT, LEFT);
+module shift(a, b, RIGHT, LEFT);
 	input	[3:0]	 a, b;
 	output	[3:0]	RIGHT, LEFT;
 	reg		[3:0]	c, d, RIGHT, LEFT;
