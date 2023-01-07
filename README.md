@@ -8,3 +8,4 @@
   * 可練習Verilog題目。  
 * [CoderPad](https://embed.coderpad.io/sandbox?language=verilog)
   * Online Verilog Compiler 
+* [牛客網-verilog試題](https://www.nowcoder.com/exam/oj?page=1&tab=Verilog%E7%AF%87&topicId=301)
