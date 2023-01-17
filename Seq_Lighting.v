@@ -7,7 +7,7 @@ module Seq_Lighting(clk, reset, a, b, c, d, e);
 	
 	always@(posedge clk)
 	begin	
-		if(reset)begin
+		if(!reset)begin
 			divider <= divider + 1;
 			if(divider >= 999999)begin
 				divider <= 0;
