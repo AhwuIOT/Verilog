@@ -12,3 +12,5 @@
 * [邏輯閘定義](https://www.ro-boy.com/blog/digital-board-true-table)
 * [verilog or very lag ](https://ithelp.ithome.com.tw/users/20141480/ironman/4772)
   * 介紹常見的Verilog基礎電路，及相關語法編寫方式。
+* [Verilog 從放棄到有趣](https://ithelp.ithome.com.tw/users/20107543/ironman/1492)
+  * 另一篇介紹常見的Verilog基礎電路，及相關語法編寫方式。
