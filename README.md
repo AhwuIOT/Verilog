@@ -19,3 +19,5 @@
 * [Static Timing Analysis(STA)](https://hackmd.io/@derek8955/HymBdS1li#Static-Timing-AnalysisSTA)
 * [阿嬤都能懂的 IC 設計流程 (R Ma Knows IC Design Flow)](https://www.youtube.com/watch?v=kYUhk6FQwBc)
 * [免費電子書：Verilog 電路設計-陳鍾誠](http://ccckmit.wikidot.com/ve:main)
+* [Verilog Examples](http://www.asic-world.com/examples/verilog/index.html)
+  * 包含Verilog範例 
