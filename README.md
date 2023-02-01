@@ -14,3 +14,5 @@
   * 介紹常見的Verilog基礎電路，及相關語法編寫方式。
 * [Verilog 從放棄到有趣](https://ithelp.ithome.com.tw/users/20107543/ironman/1492)
   * 另一篇介紹常見的Verilog基礎電路，及相關語法編寫方式。
+* [Verilog教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/Chapter_01.html)
+  * Verilog基礎
