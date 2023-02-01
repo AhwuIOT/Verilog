@@ -16,5 +16,5 @@
   * 另一篇介紹常見的Verilog基礎電路，及相關語法編寫方式。
 * [Verilog教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/Chapter_01.html)
   * Verilog基礎
-* [數位邏輯設計](https://digital-logic-design.readthedocs.io/)
+* [Static Timing Analysis(STA)](https://hackmd.io/@derek8955/HymBdS1li#Static-Timing-AnalysisSTA)
    
