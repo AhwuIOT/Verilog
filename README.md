@@ -17,4 +17,5 @@
 * [Verilog教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/Chapter_01.html)
   * Verilog基礎
 * [Static Timing Analysis(STA)](https://hackmd.io/@derek8955/HymBdS1li#Static-Timing-AnalysisSTA)
+* [阿嬤都能懂的 IC 設計流程 (R Ma Knows IC Design Flow)](https://www.youtube.com/watch?v=kYUhk6FQwBc)
    
