@@ -22,3 +22,5 @@
 * [免費電子書：Verilog 電路設計-陳鍾誠](http://ccckmit.wikidot.com/ve:main)
 * [Verilog Examples](http://www.asic-world.com/examples/verilog/index.html)
   * 包含Verilog範例 
+* [【心得】基礎、進階、及電路應用教學](https://forum.gamer.com.tw/Co.php?bsn=22388&sn=1719)
+  * 解釋latch及相關電路
