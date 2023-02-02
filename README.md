@@ -24,3 +24,5 @@
   * 包含Verilog範例 
 * [【心得】基礎、進階、及電路應用教學](https://forum.gamer.com.tw/Co.php?bsn=22388&sn=1719)
   * 解釋latch及相關電路
+* [How Do Computers Remember?](https://www.youtube.com/watch?v=I0-izyq6q5s)
+  * 視覺化電路信號傳輸，可參考影片內的Latch  
