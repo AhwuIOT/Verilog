@@ -26,3 +26,5 @@
   * 解釋latch及相關電路
 * [How Do Computers Remember?](https://www.youtube.com/watch?v=I0-izyq6q5s)
   * 視覺化電路信號傳輸，可參考影片內的Latch  
+* [FPGA4Student](https://www.fpga4student.com/)
+  * 內含大量Verilog code範例及教學
